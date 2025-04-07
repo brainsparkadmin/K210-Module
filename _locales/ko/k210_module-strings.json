@@ -20,4 +20,7 @@
   "k210_models.get_motor_L|block": "왼쪽 모터 속도",
   "k210_models.get_motor_R|block": "오른쪽 모터 속도",
   "k210_models.get_motor_speed|block": "속도 분석"
+
+
+  
 }
