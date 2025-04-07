@@ -1,7 +1,7 @@
 {
     "name": "k210_module",
     "version": "1.0.1",
-    "description": "Extension for YahBoom k210_module",
+    "description": "k210 카메라 확장 블럭입니다.",
     "license": "MIT",
     "dependencies": {
         "core": "*",
@@ -11,7 +11,8 @@
         "README.md",
         "main.ts",
         "_locales/zh-cn/k210_module-strings.json",
-        "_locales/zh-tw/k210_module-strings.json"
+        "_locales/zh-tw/k210_module-strings.json",
+        "_locales/ko/k210_module-strings.json"
     ],
     "testFiles": [
         "test.ts"
