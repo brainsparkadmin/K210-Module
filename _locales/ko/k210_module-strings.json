@@ -1,0 +1,23 @@
+{
+  "k210_models|block": "K210 시각 모듈",
+  "{id:category}k210_models": "K210 시각 모듈",
+  "k210_models.initialization|block": "시리얼 초기화",
+  "k210_models.color_reg_X|block": "X축",
+  "k210_models.color_reg_W|block": "너비",
+  "k210_models.color_reg_Y|block": "Y축",
+  "k210_models.color_reg_H|block": "높이",
+  "k210_models.Barcode_Sensor|block": "바코드 인식",
+  "k210_models.QRcode_Sensor|block": "QR코드 인식",
+  "k210_models.Apriltag_Sensor|block": "마커 코드 인식",
+  "k210_models.face_reg|block": "얼굴 인식",
+  "k210_models.object_detect|block": "사물 인식",
+  "k210_models.self_learning|block": "자율 학습 인식",
+  "k210_models.handwriting_number|block": "손글씨 숫자 인식",
+  "k210_models.Color_Sensor|block": "색상 인식",
+  "k210_models.Apriltag_id|block": "마커 코드 ID",
+  "k210_models.face_mask_detect|block": "마스크 착용 인식",
+  "k210_models.face_detect|block": "얼굴 탐지",
+  "k210_models.get_motor_L|block": "왼쪽 모터 속도",
+  "k210_models.get_motor_R|block": "오른쪽 모터 속도",
+  "k210_models.get_motor_speed|block": "속도 분석"
+}
